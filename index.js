@@ -14,7 +14,7 @@ console.log('Server on port 3032')
 // The above code is to set a simple Node Js server without express
 
 
-//---------------- NEW CODE WHIT EXPRESS JS ----------------------
+//---------------- NEW CODE WITH EXPRESS JS ----------------------
 // - routing documentation http://expressjs.com/en/guide/routing.html
 // - methods http://expressjs.com/en/4x/api.html
 
